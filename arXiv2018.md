@@ -8,5 +8,8 @@ A survey for [arXiv](https://arxiv.org/) published in 2018. Title, description a
 * [How good is my GAN?](https://arxiv.org/pdf/1807.09499.pdf) [[Project]]() [[GitHub]]()
 	* Description here.
 
+* [Everybody Dance Now](https://arxiv.org/abs/1808.07371) [[YouTube]](https://www.youtube.com/watch?v=PCBTZh41Ris)
+	* Dancing movie generation from a source dancing video to a target video. The authors apply OpenPose and GANs to correspond estimated keypoints and human generation.
+
 * [Title]() [[Project]]() [[GitHub]]()
 	* Description here.
